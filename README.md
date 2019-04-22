@@ -7,4 +7,4 @@ A repository for tapping into Homebrew.
 # Install a formula
 |Package   |Desription   |Brew Install  |
 |:---|:---|:---|
-|[source{d} engine](https://github.com/src-d/engine)|Powerful language-agnostic analysis of your source code and git history|`brew install sourced-engine`|
+|[source{d} engine](https://github.com/src-d/engine)|Powerful language-agnostic analysis of your source code and git history|<code>brew cask install docker<br/>brew install sourced-engine</code>|
